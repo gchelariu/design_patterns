@@ -5,7 +5,7 @@ import lambdas.objects.Pet;
 
 import java.util.Optional;
 
-public class Lambdas {
+public class Optionals {
 
     public static void main(String[] args) {
         Home myHome = new Home();
